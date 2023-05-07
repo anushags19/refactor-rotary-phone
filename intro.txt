@@ -1,0 +1,8 @@
+This is the  initial file
+
+
+git init
+git add filename.txt
+git diff
+git restore filename.txt
+git commit -m " Msg in simple present tense"
