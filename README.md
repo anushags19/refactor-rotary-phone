@@ -6,8 +6,8 @@
 
 This is normal text
 
-*point one
-*point two
+- point one
+- point two
 - Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
