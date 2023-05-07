@@ -6,5 +6,5 @@
 
 This is normal text
 
--point one
--point two
+*point one
+*point two
